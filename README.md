@@ -43,7 +43,7 @@ javac *.java
 
 3. Execute a aplicação:
 ```bash
-java view.Main
+java src.view.Main
 ```
 
 ---
