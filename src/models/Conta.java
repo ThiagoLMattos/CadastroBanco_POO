@@ -1,4 +1,4 @@
-package models;
+package src.models;
 
 // Classe abstrata que serve como modelo para todos os tipos de contas (Corrente, Poupança)
 public abstract class Conta {

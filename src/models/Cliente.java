@@ -1,4 +1,4 @@
-package models;
+package src.models;
 
 
 // Estende a classe abstrata Pessoa para herdar atributos e comportamentos básicos.

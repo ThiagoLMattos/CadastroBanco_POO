@@ -1,12 +1,13 @@
 // Sistema.java
-package controllers;
+package src.controllers;
 
-import models.Cliente;
-import models.Conta;
-import models.ContaCorrente;
-import models.ContaPoupanca;
 import java.util.ArrayList;
 import java.util.List;
+
+import src.models.Cliente;
+import src.models.Conta;
+import src.models.ContaCorrente;
+import src.models.ContaPoupanca;
 
 // Classe que coordena a lógica de negócio do sistema
 public class Sistema {

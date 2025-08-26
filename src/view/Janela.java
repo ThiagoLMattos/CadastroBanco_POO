@@ -1,5 +1,5 @@
 // Janela.java
-package view;
+package src.view;
 
 import javax.swing.*;
 import javax.swing.text.MaskFormatter;
@@ -8,10 +8,10 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.text.ParseException;
 
-import controllers.Sistema;
-import models.Cliente;
-import models.Conta;
-import models.ContaCorrente;
+import src.controllers.Sistema;
+import src.models.Cliente;
+import src.models.Conta;
+import src.models.ContaCorrente;
 
 // Classe que cria e gerencia a interface gráfica da aplicação
 public class Janela extends JFrame {

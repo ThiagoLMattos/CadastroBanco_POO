@@ -1,9 +1,10 @@
 // OperacoesContaDialog.java
-package view;
+package src.view;
 
-import models.Conta;
 import javax.swing.*;
 import javax.swing.text.MaskFormatter;
+
+import src.models.Conta;
 
 import java.awt.*;
 import java.text.ParseException;

@@ -1,4 +1,4 @@
-package models;
+package src.models;
 
 // Classe abstrata que serve como modelo para pessoas, como Clientes
 public abstract class Pessoa {
